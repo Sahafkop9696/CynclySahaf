@@ -2,6 +2,7 @@
   <Folder Name="/2026_01_20_CS/">
     <Project Path="A01_HelloConsole/A01_HelloConsole.csproj" />
     <Project Path="A06_IntMemoryVariable/A06_IntMemoryVariable.csproj" Id="6a866332-b616-4f41-9b3d-52e5f80782f9" />
+    <Project Path="A07_IntSimpleCalculator/A07_IntSimpleCalculator.csproj" Id="69adb13a-cd9f-46f1-813f-f806bd432118" />
   </Folder>
   <Folder Name="/Assignments/" />
   <Folder Name="/Assignments/2026_01_20/">
