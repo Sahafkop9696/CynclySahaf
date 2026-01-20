@@ -1,5 +1,11 @@
 <Solution>
   <Folder Name="/2026_01_20_CS/">
     <Project Path="A01_HelloConsole/A01_HelloConsole.csproj" />
+    <Project Path="A06_IntMemoryVariable/A06_IntMemoryVariable.csproj" Id="6a866332-b616-4f41-9b3d-52e5f80782f9" />
   </Folder>
+  <Folder Name="/Assignments/" />
+  <Folder Name="/Assignments/2026_01_20/">
+    <Project Path="A05_ThreeMemoryVariable/A05_ThreeMemoryVariable.csproj" Id="5789ee6c-362e-4c4f-a298-074764bb79cc" />
+  </Folder>
+  <Project Path="A01_StringMemoryVariable/A01_StringMemoryVariable.csproj" Id="22df1bea-e6c9-4fbd-8604-c115429ff1c5" />
 </Solution>
