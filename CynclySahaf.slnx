@@ -5,11 +5,22 @@
     <Project Path="A08_DoubleSimpleCalculator/A08_DoubleSimpleCalculator.csproj" Id="8d041a29-2190-42e7-a9b1-abcde0a0ab4a" />
     <Project Path="A16_For/A16_For.csproj" Id="62c1745d-d59c-4ab2-b4e6-77eff07edade" />
     <Project Path="A21_GenericListOfString/A21_GenericListOfString.csproj" Id="3131ed4b-cb2f-4350-bed6-7aa09fd4b8b7" />
+    <Project Path="WhileLoopAsst/WhileLoopAsst.csproj" Id="134767b6-3d4f-44ec-9612-46e9df84f26e" />
+  </Folder>
+  <Folder Name="/2026_01_21_CS/">
+    <Project Path="A025_GenericListOfInteger/A025_GenericListOfInteger.csproj" Id="6a434444-bdf8-4fbd-8f6f-c8ded35e007b" />
+    <Project Path="A031_FunctionsHello/A031_FunctionsHello.csproj" Id="3d84acc4-a656-44e4-952c-3a0bec4a11e3" />
+    <Project Path="A032_FunctionReturn/A032_FunctionReturn.csproj" Id="5098aac8-1907-4eef-a4d1-833b330dea0b" />
+    <Project Path="A033_CalculatorWithFunction/A033_CalculatorWithFunction.csproj" Id="9c259e25-e0cd-43b1-ad2a-c93577d4b2bc" />
   </Folder>
   <Folder Name="/Assignments/" />
   <Folder Name="/Assignments/2026_01_20/">
     <Project Path="A05_ThreeMemoryVariable/A05_ThreeMemoryVariable.csproj" Id="5789ee6c-362e-4c4f-a298-074764bb79cc" />
-    <Project Path="A11_IfElse/A11_IfElse.csproj" Id="4e8a5217-1240-47ec-8de7-8c146b80b2f9" />
+    <Project Path="ConsoleApp1/MultipleOf5&amp;3.csproj" Id="88f6c944-0570-4cbb-904c-1c11f862f1eb" />
+    <Project Path="IfStatementDistricts/IfStatementDistricts.csproj" Id="1eeaa12f-c4fa-4a7a-b973-6d03562df43a" />
+  </Folder>
+  <Folder Name="/Assignments/2026_01_21/">
+    <Project Path="A017_OddNumbersWhileLoop/A017_OddNumbersWhileLoop.csproj" Id="652cff33-707d-4f9f-a58d-3cfd116ab6e5" />
   </Folder>
   <Project Path="A01_StringMemoryVariable/A01_StringMemoryVariable.csproj" Id="22df1bea-e6c9-4fbd-8604-c115429ff1c5" />
 </Solution>
