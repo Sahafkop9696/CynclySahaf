@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="A033_CalcClass/A033_CalcClass.csproj" />
+  <Folder Name="/2026_01_21_Functions_WindowsForms/">
+    <Project Path="A033_CalcClass/A33_CalcClass.csproj" />
+    <Project Path="A35_MethodOverloadingHelloFunction/A35_MethodOverloadingHelloFunction.csproj" Id="5e599068-642e-465d-953f-42875c1d1578" />
+    <Project Path="A41_WindowsForms/A41_WindowsForms.csproj" Id="f79dbed3-224e-4bea-a5b7-996896ccb0db" />
+    <Project Path="A42_CalculatorWinForms/A42_CalculatorWinForms.csproj" Id="5a0f263d-79be-4056-8c3a-1d3aab968b37" />
+  </Folder>
 </Solution>
