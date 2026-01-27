@@ -1,0 +1,6 @@
+SELECT TOP (1000) [TaskId]
+      ,[TaskName]
+      ,[TaskDate]
+      ,[TaskStatus]
+      ,[Remark]
+  FROM [TaskManagement].[dbo].[Tasks]
