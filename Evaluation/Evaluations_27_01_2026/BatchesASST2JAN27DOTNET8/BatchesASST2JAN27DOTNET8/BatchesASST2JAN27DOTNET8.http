@@ -1,0 +1,6 @@
+@BatchesASST2JAN27DOTNET8_HostAddress = http://localhost:5001
+
+GET {{BatchesASST2JAN27DOTNET8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
