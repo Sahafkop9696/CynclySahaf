@@ -1,0 +1,6 @@
+@CynclyTrainingWebAPI_HostAddress = http://localhost:5036
+
+GET {{CynclyTrainingWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

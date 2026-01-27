@@ -7,4 +7,10 @@
     <Project Path="A51_ContactClassWithProperties/A51_ContactClassWithProperties.csproj" Id="39071ac2-625d-4d14-9905-a9a60fdcf56f" />
     <Project Path="A52_WindowsFormsOOP/A52_WindowsFormsOOP.csproj" Id="70a9bd0c-a92a-4fb1-a417-972294950bde" />
   </Folder>
+  <Folder Name="/2026_01_22_OOP/">
+    <Project Path="A061_GenericList/A061_GenericList.csproj" Id="d2c123ba-6d95-417b-8e13-3b0561195281" />
+    <Project Path="CalculatorClass/CalculatorClass.csproj" Id="51558752-5307-47dc-b89b-789eea7612bb" />
+    <Project Path="GenericStringCollectionInitializer/GenericStringCollectionInitializer.csproj" Id="c904e9c6-5640-45a1-ac8c-9636f12d25e0" />
+    <Project Path="WinFormsBankClass/WinFormsBankClass.csproj" Id="400e650e-298f-49cf-8980-37741fd748ca" />
+  </Folder>
 </Solution>
